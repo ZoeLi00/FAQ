@@ -18,13 +18,13 @@
 
 **What makes you come to Heidelberg?**
 ```diff
-+ Since high school, studying and living abroad had become one thing in my to do list. <br>
++ Since high school, studying and living abroad had become one thing in my to do list.
 + And last year I decided to make it come true.
 ```
 
 **How do you like Heidelberg?**
 ```diff
-+ It is the European town which I expected, old building, history, castle, surrounded by the river and mountain. <br>
++ It is the European town which I expected, old building, history, castle, surrounded by the river and mountain.
 + I like it.
 ```
 
