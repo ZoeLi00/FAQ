@@ -16,6 +16,11 @@
 - Traveling
 - Salsa
 
+**How long have you been here in Germany?**
+```diff
++ Since 26th Oct 2020
+```
+
 **What makes you come to Heidelberg?**
 ```diff
 + Since high school, studying and living abroad had become one thing in my to do list.
