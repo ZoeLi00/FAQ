@@ -2,8 +2,7 @@
 
 
 **What are you looking for here?**
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)
-‘A: I’m looking for dates(not hookups or ONS thing),though I’m not entirely focused on having a relationship,if I get along well with someone I wouldn’t be opposed to the idea.’
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)‘A: I’m looking for dates(not hookups or ONS thing),though I’m not entirely focused on having a relationship,if I get along well with someone I wouldn’t be opposed to the idea.’
 
 
 What are your hobbies?
