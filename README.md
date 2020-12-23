@@ -4,19 +4,21 @@
 **What are you looking for here?**
 
 ```diff
-- A: I’m looking for dates(not hookups or ONS thing),though I’m not entirely focused on having a relationship,if I get along well with someone I wouldn’t be opposed to the idea.
++ I’m looking for dates(not hookups or ONS thing),though I’m not entirely focused on having a relationship,if I get along well with someone I wouldn’t be opposed to the idea.
 ```
 
 
-What are your hobbies?
-Work out
-Snowboarding
-CAT
-traveling
-Salsa
+**What are your hobbies?**
+- Work out
+- Snowboarding
+- CAT
+- traveling
+- Salsa
 
-What makes you come to Heidelberg?
-Since high school, studying and living abroad had become one thing in my to do list.And last year I decided to make it come true.
+**What makes you come to Heidelberg?**
+```diff
++ Since high school, studying and living abroad had become one thing in my to do list.And last year I decided to make it come true.
+```
 
 How do you like Heidelberg?
 It is the European town which I expected, old building, history, castle, surrounded by the river and mountain.
