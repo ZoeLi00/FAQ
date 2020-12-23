@@ -55,3 +55,8 @@
 ```diff
 + Dumplings,hotpot,Cantonese Food,Sichuan Food
 ```
+
+**An inbound message had to do 3 things:**
+- Reference sth in my profile;
+- Avoid all sexual content;
+- Avoid ask questions in FAQ already.
