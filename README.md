@@ -4,7 +4,7 @@
 **What are you looking for here?**
 
 ```diff
-+ I’m looking for dates(not hookups or ONS thing),though I’m not entirely focused on having a relationship <br>
++ I’m looking for dates(not hookups or ONS thing),though I’m not entirely focused on having a relationship
 + if I get along well with someone I wouldn’t be opposed to the idea.
 ```
 
