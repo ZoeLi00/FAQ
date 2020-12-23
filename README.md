@@ -13,7 +13,7 @@
 - Work out
 - Snowboarding
 - CAT
-- traveling
+- Traveling
 - Salsa
 
 **What makes you come to Heidelberg?**
