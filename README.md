@@ -4,7 +4,8 @@
 **What are you looking for here?**
 
 ```diff
-+ I’m looking for dates(not hookups or ONS thing),though I’m not entirely focused on having a relationship,if I get along well with someone I wouldn’t be opposed to the idea.
++ I’m looking for dates(not hookups or ONS thing),though I’m not entirely focused on having a relationship <br>
+  if I get along well with someone I wouldn’t be opposed to the idea.
 ```
 
 
@@ -20,22 +21,34 @@
 + Since high school, studying and living abroad had become one thing in my to do list.And last year I decided to make it come true.
 ```
 
-How do you like Heidelberg?
-It is the European town which I expected, old building, history, castle, surrounded by the river and mountain.
+**How do you like Heidelberg?**
+```diff
++ It is the European town which I expected, old building, history, castle, surrounded by the river and mountain.
+```
 
-Where do you live now?How do you like that?
-I live in a small town near Heidelberg,it’s called Edingen, along the Neckar river.
+**Where do you live now?How do you like that?**
+```diff
++ I live in a small town near Heidelberg,it’s called Edingen, along the Neckar river.
 It’s peace and quite.
+```
 
-What are you studying?What is that?
-I’m pursing master program on Scientific Computing, which is half CS, half Math.
+**What are you studying?What is that?**
+```diff
++ I’m pursing master program on Scientific Computing, which is half CS, half Math.
+```
 
-What is your future plan?
-Getting the master degree in Heidelberg University is the most important thing for me currently.
+**What is your future plan?**
+```diff
++ Getting the master degree in Heidelberg University is the most important thing for me currently.
 But I’m not sure if I will find a job and live in Germany after graduation.Too much things will happen in 2~3 years.
+```
 
-Where are you from?
-China.my hometown is a city near the sea.
+**Where are you from?**
+```diff
++ China.my hometown is a city near the sea.
+```
 
-What is your favorite food?
-Dumplings,hotpot,Cantonese Food,Sichuan Food
+**What is your favorite food?**
+```diff
++ Dumplings,hotpot,Cantonese Food,Sichuan Food
+```
