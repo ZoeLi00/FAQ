@@ -4,7 +4,8 @@
 **What are you looking for here?**
 
 ```diff
-+ I’m looking for dates(not hookups or ONS thing),though I’m not entirely focused on having a relationship
++ I’m looking for dates(not hookups or ONS thing)
++ though I’m not entirely focused on having a relationship
 + if I get along well with someone I wouldn’t be opposed to the idea.
 ```
 
@@ -29,8 +30,9 @@
 
 **How do you like Heidelberg?**
 ```diff
-+ It is the European town which I expected, old building, history, castle, surrounded by the river and mountain.
-+ I like it.
++ It is the European town which I expected
++ old building, history, castle, surrounded by the river and mountain.
++ I like the place, but hate the cloudy and rainy weather.
 ```
 
 **Where do you live now?How do you like that?**
@@ -41,12 +43,13 @@
 
 **What are you studying?What is that?**
 ```diff
-+ I’m pursing master program on `Scientific Computing`, which is half CS, half Math.
++ I’m pursing master program on `Scientific Computing`
++ which is half CS, half Math.
 ```
 
 **What is your future plan?**
 ```diff
-+ Getting the master degree in Heidelberg University is the most important thing for me currently.
++ Getting the master degree in Heidelberg University is the most important thing for me at present.
 + But I’m not sure if I will live in Germany after graduation.Things change a lot in 2~3 years.
 ```
 
@@ -59,6 +62,7 @@
 **What is your favorite food?**
 ```diff
 + Dumplings,hotpot,Cantonese Food,Sichuan Food
++ Japanese food, Thai food
 ```
 
 **An inbound message had to do 3 things:**
